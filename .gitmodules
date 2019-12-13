@@ -1,0 +1,6 @@
+[submodule "SWENGS-Homework2-Backend"]
+	path = SWENGS-Homework2-Backend
+	url = https://github.com/PeterBrain/SWENGS-Homework2-Backend.git
+[submodule "SWENGS-Homework2-Frontend"]
+	path = SWENGS-Homework2-Frontend
+	url = https://github.com/PeterBrain/SWENGS-Homework2-Frontend.git
